@@ -9,10 +9,10 @@ if os.path.exists(README_PATH):
 
 setuptools.setup(
     name='cachedcomplete-updated',
-    version='0.1.0',
-    url='https://github.com/reef-technologies/cachedcomplete',
+    version='0.1.1',
+    url='https://github.com/reef-technologies/cachedcomplete-updates',
     project_urls={
-        "Source Code": 'https://github.com/reef-technologies/cachedcomplete'
+        "Source Code": 'https://github.com/reef-technologies/cachedcomplete-updated'
     },
     license='MIT License',
     author='',
