@@ -10,7 +10,7 @@ Cached wrapper for python argcomplete.
 Use the package manager pip to install cachedcomplete.
 
 ```bash
-pip install cachedcomplete
+pip install cachedcomplete-updated
 activate-global-python-argcomplete
 ```
 
