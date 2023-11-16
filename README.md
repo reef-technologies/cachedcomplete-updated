@@ -1,4 +1,7 @@
-# cachedcomplete
+# cachedcomplete-updated
+
+This is a fork of [cachedcomplete](https://github.com/Roynecro97/cachedcomplete) by [Roynecro97](https://github.com/Roynecro97).
+It's compatible with more recent `argcomplete` versions than the original.
 
 Cached wrapper for python argcomplete.
 

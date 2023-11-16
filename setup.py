@@ -8,11 +8,11 @@ if os.path.exists(README_PATH):
         long_description = fd.read()
 
 setuptools.setup(
-    name='cachedcomplete',
-    version='2.0.0',
-    url='https://github.com/Roynecro97/cachedcomplete',
+    name='cachedcomplete-updated',
+    version='0.1.0',
+    url='https://github.com/reef-technologies/cachedcomplete',
     project_urls={
-        "Source Code": 'https://github.com/Roynecro97/cachedcomplete'
+        "Source Code": 'https://github.com/reef-technologies/cachedcomplete'
     },
     license='MIT License',
     author='',
@@ -42,7 +42,6 @@ setuptools.setup(
         'Programming Language :: Python :: 3.11',
         'Programming Language :: Python :: 3.12',
         'Programming Language :: Python :: Implementation :: CPython',
-        # 'Programming Language :: Python :: Implementation :: PyPy',
         'Development Status :: 4 - Beta',
         'Topic :: Software Development',
         'Topic :: Software Development :: Libraries :: Python Modules',
